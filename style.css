@@ -1,0 +1,14 @@
+h1{
+    background-color: dodgerblue;
+    display: inline-block;
+}
+h2{
+    background-color: springgreen;
+    display: inline-block;
+}
+.tubuh{
+    background-color:aliceblue;
+}
+body{
+    background-color:aquamarine;
+}
